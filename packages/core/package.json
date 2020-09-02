@@ -1,0 +1,23 @@
+{
+    "name": "@vue/core",
+    "version": "3.0.0-alpha.1",
+    "description": "@vue/core",
+    "main": "index.js",
+    "module": "dist/core.esm.js",
+    "typings": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chenqiong-code/mock-vue-next.git"
+    },
+    "keywords": [
+        "vue"
+    ],
+    "author": "chen qiong",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/chenqiong-code/mock-vue-next/issues"
+    },
+    "dependencies": {
+        "@vue/observer": "3.0.0-alpha.1"
+    }
+}
